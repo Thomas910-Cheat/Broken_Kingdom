@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: 1d6b2b71fbbb14340b11334bd6f47cb0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9018088322357146198
+    second: KnightRight_0
+  - first:
+      213: 618046996588042531
+    second: KnightRight_1
+  - first:
+      213: -4341484268927633890
+    second: KnightRight_2
+  - first:
+      213: -5151212484993486469
+    second: KnightRight_3
+  - first:
+      213: -5269765734647856030
+    second: KnightRight_4
+  - first:
+      213: 3361125528569163300
+    second: KnightRight_5
+  - first:
+      213: -1066323451963978907
+    second: KnightRight_6
+  - first:
+      213: 8657362464398739901
+    second: KnightRight_7
+  - first:
+      213: 8241312058658864341
+    second: KnightRight_8
+  - first:
+      213: 5996575525524070437
+    second: KnightRight_9
+  - first:
+      213: 3509357060492369717
+    second: KnightRight_10
+  - first:
+      213: -639158558253028560
+    second: KnightRight_11
+  - first:
+      213: 789184039420565319
+    second: KnightRight_12
+  - first:
+      213: 8119905025890186624
+    second: KnightRight_13
+  - first:
+      213: 1602353712098800873
+    second: KnightRight_14
+  - first:
+      213: -5510767665636817090
+    second: KnightRight_15
+  - first:
+      213: 379799385311290758
+    second: KnightRight_16
+  - first:
+      213: 2481092085472747127
+    second: KnightRight_17
+  - first:
+      213: 1566016711009866712
+    second: KnightRight_18
+  - first:
+      213: 358690644917655407
+    second: KnightRight_19
+  - first:
+      213: 3528643862061202580
+    second: KnightRight_20
+  - first:
+      213: 7966289913341319833
+    second: KnightRight_21
+  - first:
+      213: -7389281752527553657
+    second: KnightRight_22
+  - first:
+      213: -1766887070916525965
+    second: KnightRight_23
+  - first:
+      213: 6130624827843180040
+    second: KnightRight_24
+  - first:
+      213: 702671741237535480
+    second: KnightRight_25
+  - first:
+      213: -5053157879096256984
+    second: KnightRight_26
+  - first:
+      213: 5165366758660705057
+    second: KnightRight_27
+  - first:
+      213: -4675931097329478719
+    second: KnightRight_28
+  - first:
+      213: 1529322065636123751
+    second: KnightRight_29
+  - first:
+      213: 2995539311198350374
+    second: KnightRight_30
+  - first:
+      213: 3708490965984345925
+    second: KnightRight_31
+  - first:
+      213: -5659329867889839209
+    second: KnightRight_32
+  - first:
+      213: -2112000639829261180
+    second: KnightRight_33
+  - first:
+      213: -4262081159515932271
+    second: KnightRight_34
+  - first:
+      213: 7858236307437893773
+    second: KnightRight_35
+  - first:
+      213: 2408557982339034204
+    second: KnightRight_36
+  - first:
+      213: -1939073500099136930
+    second: KnightRight_37
+  - first:
+      213: 8874522003960105351
+    second: KnightRight_38
+  - first:
+      213: 235176514632483735
+    second: KnightRight_39
+  - first:
+      213: -3918002799640239157
+    second: KnightRight_40
+  - first:
+      213: 1650558559480528595
+    second: KnightRight_41
+  - first:
+      213: 2551630380985193424
+    second: KnightRight_42
+  - first:
+      213: -4000960711303038163
+    second: KnightRight_43
+  - first:
+      213: 1431380639018465965
+    second: KnightRight_44
+  - first:
+      213: -336164083142669168
+    second: KnightRight_45
+  - first:
+      213: -1390838060870329444
+    second: KnightRight_46
+  - first:
+      213: -5393826761406542502
+    second: KnightRight_47
+  - first:
+      213: 6334960025893891381
+    second: KnightRight_48
+  - first:
+      213: -6154215928927334372
+    second: KnightRight_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KnightRight_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 66
+        width: 154
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652323f9c8fa62d70800000000000000
+      internalID: 9018088322357146198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightRight_1
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 66
+        width: 143
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3299026087eb39800800000000000000
+      internalID: 618046996588042531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
