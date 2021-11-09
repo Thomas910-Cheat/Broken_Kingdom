@@ -1,0 +1,22 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Blocks
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Size
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Size:			32x32
+
+
+Colors:
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Brown:			#391d00
+Light-Brown:		#4a2600
+Lighter-Brown:		#613100
+
+Black:			#000000
+
+Green:			#105f00
+Light-Green:		
+Lighter-Green:		
+
+Red:			#ac0101
