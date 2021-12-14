@@ -14,6 +14,8 @@ Light-Brown:		#4a2600
 Lighter-Brown:		#613100
 
 Black:			#000000
+Light-Black:		#f4f4f4
+Lighter-Black:		#8d8787
 
 Green:			#105f00
 Light-Green:		#137000
